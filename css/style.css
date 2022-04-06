@@ -1,0 +1,29 @@
+/* Created by: Rory Mackay
+* Created on: April 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit3-01-HTML-JS-AreaTrapezoid
+*/
+
+body {
+  background: #ff94f1;
+}
+
+h1 {
+	background-color: #6600ff;
+	text-align: left;
+}
+
+p {
+	background-color: #ff9e9e;
+}
+
+div {
+	
+  font-weight: bold;
+  color: #050505;
+  margin: 5px;
+}
+
+#display-results{
+  background-color: #2500e0;
+}
